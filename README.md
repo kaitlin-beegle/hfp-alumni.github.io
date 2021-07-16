@@ -1,61 +1,93 @@
-## Welcome to the HfP Alumni Community! 
+A Community for HfP Alumni
+=============================
+
+- [Welcome to the Community!](#welcome)
+- [Interact with the Community](#connect)
+  - [Community Resources](#community-resources)
+  - [Making Connections](#making-connections)
+- [Community Rules and Policies](#community-rules-and-policies)
+- [Community Managers](#contribute-comment-or-raise-an-issue)
+
+--------------------------------
+
+## Welcome!
 
 The purpose of our community is to facilitate connections between HfP members, past and present. 
 
-For many of us, the fundamental challenge we face is in recognizing the need for interdiscplinary thinking in politics and technology, and then translating this need into meaningful work and research opportunities. 
+The fundamental challenge many of us face is translating our interdiscplinary training in politics and technology into meaningful work and research opportunities. 
 
-For some, it can be difficult to know exactly what kind of work you're suited for after finishing your degree.  For others, you may know exactly what kind of work you'd like to do, but don't know how to go about identifying those opportunities. And still others may be interested in complex and competitive industries- working outside their home country, breaking into Silicon Valley, or interning at highly-esteemed organizations- and are in need of guidance and connections. 
+Some of us may struggle to know exactly what kind of work we're best suited for after graduating from HfP. Others, who know exactly the kind of work they'd like to do, may struggle to identify fruitful opportunities. And still others may be interested in knowing more about working in complex, competitive institutions - working outside their home country, breaking into Silicon Valley, interning at highly-esteemed organizations, or entering academia. 
 
-By assembling students, faculty, and alumni together in a single group, we hope to provide a network for resolving some of these challenges.  
+<!-- but don't know how to go about identifying those opportunities. -->
+We hope to address these challenges through this community that provides a network of alumni, faculty and students. Seeking guidance and making connections is important to all of us.
 
 By looking at what current alumni are doing, current students are able to more clearly understand what types of jobs are available and accessible to others with their background. 
 
 By incorporating current students and faculty, alumni are able to remain connected to the current research and thinking happening at the HfP, gaining inspiration for their own careers from students just starting out in their own. 
 
-### Connecting and Communicating
+## Connect!
 
-We seek to create a robust and proactive Alumni Community that is able to easily create, share, and promote relevant ideas, job posts, and career resources. 
+We seek to create a robust and proactive alumni community that is able to easily create, share, and promote relevant ideas, job posts, and career resources. 
 
-All of our materials are crowd-sourced and publically maintained.  This currently includes: 
-- CV and Cover Letter Database
+### Community Resources
 
-If you have ideas for content you'd like to see created, we encourage you to do just that! You can reach out to a page Manager to ask for guidance, or can post directly in the group.  Crowd-sourced projects and materials are usually low-maintenance, and simply suggesting the idea is usually enough to make it happen. 
+As your first interactions with the community, we have curated the following resources for everyone to browse through.
 
-Some examples of materials we could create would be: 
+1. :clipboard: [CV and Cover Letter Database](cvbank)
+
+If you have ideas for content you'd like to see created, we encourage you to do just that! You can reach out to a Community Manager to ask for guidance, or can post directly in the group. Crowd-sourced projects and materials are usually low-maintenance, and simply suggesting the idea is usually enough to make it happen. Some examples of community resource projects could be :
+
 1. Seminars on personal branding 
 2. Mock interview rounds and interview prep 
 3. Job search best-practices within your home country or industry 
 
-Of course, posting with one-off questions, relevant job posts, introductions, or else starting a conversation is always welcome! We also encourage requests to meet-up and network, and encourage you to reach out and connect directly with community members!
+All of our materials are crowd-sourced and publicly maintained.
 
-So long as you're following the rules, we welcome you to post and share whatever is of interest to you.  If you're curious or want to discuss something, odds are someone else does as well. 
+### Making Connections
 
-At this time, page Managers do not need to authorize new posts. 
+We encourage posts and comments on the following topics : 
 
-### Administration and Policies
+- :white_check_mark: introducing yourself
+- :white_check_mark: relevant questions posed to the community
+- :white_check_mark: professional or academic events
+- :white_check_mark: meet-up or networking requests
+- :white_check_mark: publications
+- :white_check_mark: job postings and internship opportunities in
+  - think tanks
+  - advocacy groups
+  - political parties
+  - academia, and others
 
-In order to maintain a community which is inclusive, productive, and appropriate, we have certain ground rules that must be followed. 
+So long as you're following the [rules](#community-rules-and-policies), we encourage you to post and share whatever is of interest to you. If you're curious or want to discuss something, odds are someone else does as well. Simply start a conversation or reach out and connect directly with community members!
 
-Most importantly, please remember that this is a professional group focused on Alumni.  Although current students are welcome to join, the purpose of this group is to amplify best-practices and materials for your post-HfP work and career.  As such, content related too specifically to current students, including working student opportuntiies and/or internships which are exlusively for students, may not be appropriate for the group. 
+At this time, all new posts are welcome and need not be authorized by Community Managers. 
 
-We encourage job postings and internships which are open to everyone, as well as information on academic events which are open to everyone. 
 
-We also welcome and encourage political opportunities and information which is published or professional in nature.  This may include research opportunties with think tanks, job posts with specific parties and/or interest groups, or advocacy work. 
+# Community Rules and Policies
+
+In order to maintain a community which is inclusive, productive, and appropriate, we have decided on certain ground rules that must be followed. 
+
+The most important policy is to always consider, before posting anything, that this is a professional group focused on HfP alumni. The purpose of this group is to amplify best-practices and materials for your post-HfP work and career, and hence the following may not be appropriate for this group:
+
+- :x: content specifically related to current students (academics, internships etc.) 
+- :x: general 'conversation topics' that may be irrelevant to this group
+- :x: irrelevant memes (but relevant ones are highly encouraged!)
 
 We DO NOT welcome, and will remove, other political content.  This includes, but is not limited to: 
-- Irrelevant political opinions and/or ideological statements
-- Comments which make broad generalizations about a specific country, people, culture, or phenomenon 
-- Jobs or opportunities that promote work or beliefs which are objectively hateful or exclusionary
+- :x: Irrelevant political opinions and/or ideological statements
+- :x: Comments which make broad generalizations about a specific country, people, culture, or phenomenon 
+- :x: Jobs or opportunities that promote work or beliefs which are objectively hateful or exclusionary
 
-We also do not welcome irrelevant memes (though highly encourage relevant ones) or other general 'conversation topics' that are not related to this group. 
+Content which is deemed inappropriate will be moderated by the Community Managers. Moderation may include a message to the author or removal of the content in question.  In more serious cases, individuals can also be banned from the group. Although this group was assembled and is managed exclusively by HfP students, HfP Administrators also maintain the right to weigh in on content area and may request removal of anything which seems harmful to the HfP, its goals, and its mission. 
 
-Content which is deemed inappropriate will be moderated by group Managers.  Moderation may include a message to the author or removal of the content in question.  In more serious cases, individuals can also be banned from the group. Although this group was assembled and is managed exclusively by HfP students, HfP Administrators also maintain the right to weigh in on content area and may request removal of anything which seems harmful to the HfP, its goals, and its mission. 
+Additional community engagement rules will follow the [The Citizen Code of Conduct](CODE_OF_CONDUCT.md), as distributed by [Stumptown Syndicate](http://stumptownsyndicate.org). 
 
 Please remember that this is an international community of professional adults.  Please act accordingly, and remember that anyone in this group may be your next boss, letter of recommendation, or colleague! 
 
-### Who do I contact if I have a problem, comment, or issue?
+# Contribute, Comment or raise an Issue!
 
-Please reach out directly to a Community Manager! You can filter through Managers in the list of group members. 
+If you are unsure of how to participate, please reach out directly to a Community Manager! You can filter through Managers in the list of [group members](COMMUNITY_MNGRS.md). 
 
 If you would like to be involved in the group more formally, or would like to be made a Manager, please message Kaitlin Beegle. 
+<!-- example for mailto link: [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans) -->
 
