@@ -43,9 +43,9 @@ We encourage job postings and internships which are open to everyone, as well as
 We also welcome and encourage political opportunities and information which is published or professional in nature.  This may include research opportunties with think tanks, job posts with specific parties and/or interest groups, or advocacy work. 
 
 We DO NOT welcome, and will remove, other political content.  This includes, but is not limited to: 
--Irrelevant political opinions and/or ideological statements
--Comments which make broad generalizations about a specific country, people, culture, or phenomenon 
--Jobs or opportunities that promote work or beliefs which are objectively hateful or exclusionary
+- Irrelevant political opinions and/or ideological statements
+- Comments which make broad generalizations about a specific country, people, culture, or phenomenon 
+- Jobs or opportunities that promote work or beliefs which are objectively hateful or exclusionary
 
 We also do not welcome irrelevant memes (though highly encourage relevant ones) or other general 'conversation topics' that are not related to this group. 
 
