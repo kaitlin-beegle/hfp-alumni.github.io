@@ -80,8 +80,6 @@ We DO NOT welcome, and will remove, other political content.  This includes, but
 
 Content which is deemed inappropriate will be moderated by the Community Managers. Moderation may include a message to the author or removal of the content in question.  In more serious cases, individuals can also be banned from the group. Although this group was assembled and is managed exclusively by HfP students, HfP Administrators also maintain the right to weigh in on content area and may request removal of anything which seems harmful to the HfP, its goals, and its mission. 
 
-Additional community engagement rules will follow the [The Citizen Code of Conduct](CODE_OF_CONDUCT.md), as distributed by [Stumptown Syndicate](http://stumptownsyndicate.org). 
-
 Please remember that this is an international community of professional adults.  Please act accordingly, and remember that anyone in this group may be your next boss, letter of recommendation, or colleague! 
 
 # Contribute, Comment or raise an Issue!
